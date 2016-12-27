@@ -1,0 +1,5 @@
+So the only way to turn off my program is to go into task manager and end task.
+This will  be necassary when you randomly get the one form that crashes the program
+and infinitly shoots up error messages. The program itself is on a loop so you will return to the
+beginning (because what I originally wanted to do fell through the cracks :/) but eventually you'll
+hit that infinite error message loop.
